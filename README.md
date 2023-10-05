@@ -1,3 +1,3 @@
-# Kalkulator Sederhana
+# Tugas Kelompok "Santai dulu gak sih"
 
-tugas kelompok kalkulator menggunkan kolaborasi github dan trello
+Ini adalah kumpulan tugas kelompok.

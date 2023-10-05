@@ -1,3 +1,4 @@
+package project1;
 import java.util.Scanner;
 
 public class GajiKaryawan {
@@ -25,6 +26,7 @@ public class GajiKaryawan {
         System.out.println("Bonus: Rp. " + bonus);
         System.out.println("Gaji total: Rp. " + gajiTotal + "\n");
 
+        sc.close();
     }
     
 }
