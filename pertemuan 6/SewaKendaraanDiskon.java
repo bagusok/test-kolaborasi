@@ -1,3 +1,4 @@
+package project3;
 import java.util.Scanner;
 
 public class SewaKendaraanDiskon {
@@ -17,7 +18,7 @@ public class SewaKendaraanDiskon {
          if (jenisKendaraan.equalsIgnoreCase("motor")){
 
             if (lamaSewa > 7){
-               hargaSewa = 50000 - (50000 * 0.05);
+               hargaSewa = 40000;
             }else{
                hargaSewa = 50000;
             }
@@ -26,7 +27,7 @@ public class SewaKendaraanDiskon {
             System.out.println("Harga Total: " + total);
          }else if (jenisKendaraan.equalsIgnoreCase("mobil")){
             if (lamaSewa > 7){
-               hargaSewa = 100000 - (100000 * 0.1);
+               hargaSewa = 90000;
             }else{
                 hargaSewa = 100000;
             }
